@@ -21,7 +21,6 @@ class PrintSstream{
 public class Ex02_Print {
 	public static void main(String[] args) {
 		System.out.println("출력");
-		//수정해보기
 		
 		Ssystem.out.print("출력");
 	}
