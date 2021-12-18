@@ -21,7 +21,7 @@ class PrintSstream{
 public class Ex02_Print {
 	public static void main(String[] args) {
 		System.out.println("출력");
-		
+		//다시수정
 		Ssystem.out.print("출력");
 	}
 }
